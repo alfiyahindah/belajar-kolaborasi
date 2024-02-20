@@ -1,2 +1,3 @@
 # belajar-kolaborasi  
-Belajar di Dicoding itu seru!
+Belajar di Dicoding itu seru!  
+Iya kan?
